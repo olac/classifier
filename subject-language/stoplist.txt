@@ -1,0 +1,2945 @@
+﻿#DutchWords
+de
+en
+van
+ik
+te
+dat
+die
+in
+een
+hij
+het
+niet
+zijn
+is
+was
+op
+aan
+met
+als
+voor
+had
+er
+maar
+om
+hem
+dan
+zou
+of
+wat
+mijn
+men
+dit
+zo
+door
+over
+ze
+zich
+bij
+ook
+tot
+je
+mij
+uit
+der
+daar
+haar
+naar
+heb
+hoe
+heeft
+hebben
+deze
+u
+want
+nog
+zal
+me
+zij
+nu
+ge
+geen
+omdat
+iets
+worden
+toch
+al
+waren
+veel
+meer
+doen
+toen
+moet
+ben
+zonder
+kan
+hun
+dus
+alles
+onder
+ja
+eens
+hier
+wie
+werd
+altijd
+doch
+wordt
+wezen
+kunnen
+ons
+zelf
+tegen
+na
+reeds
+wil
+kon
+niets
+uw
+iemand
+geweest
+andere
+#FrenchWords
+au
+aux
+avec
+ce
+ces
+dans
+de
+des
+du
+elle
+en
+et
+eux
+il
+je
+la
+le
+leur
+lui
+ma
+mais
+me
+même
+mes
+mme
+melle
+moi
+mon
+ne
+nos
+notre
+nous
+on
+ou
+par
+pas
+pour
+qu
+que
+qui
+sa
+se
+ses
+son
+sur
+ta
+te
+tes
+toi
+ton
+tu
+un
+une
+vos
+votre
+vous
+été
+étée
+étées
+étés
+étant
+étante
+étants
+étantes
+suis
+es
+est
+sommes
+êtes
+sont
+serai
+seras
+sera
+serons
+serez
+seront
+serais
+serait
+serions
+seriez
+seraient
+étais
+était
+étions
+étiez
+étaient
+fus
+fut
+fûmes
+fûtes
+furent
+sois
+soit
+soyons
+soyez
+soient
+fusse
+fusses
+fût
+fussions
+fussiez
+fussent
+ayant
+ayante
+ayantes
+ayants
+eu
+eue
+eues
+eus
+ai
+as
+avons
+avez
+ont
+aurai
+auras
+aura
+aurons
+aurez
+auront
+aurais
+aurait
+aurions
+auriez
+auraient
+avais
+avait
+avions
+aviez
+avaient
+eut
+eûmes
+eûtes
+eurent
+aie
+aies
+ait
+ayons
+ayez
+aient
+eusse
+eusses
+eût
+eussions
+eussiez
+eussent
+monde
+sucre
+#GermanWords
+aber
+alle
+allem
+allen
+aller
+alles
+als
+also
+am
+an
+ander
+andere
+anderem
+anderen
+anderer
+anderes
+anderm
+andern
+anderr
+anders
+auch
+auf
+aus
+bei
+bin
+bis
+bist
+da
+damit
+dann
+der
+den
+des
+dem
+die
+das
+daß
+derselbe
+derselben
+denselben
+desselben
+demselben
+dieselbe
+dieselben
+dasselbe
+dazu
+dein
+deine
+deinem
+deinen
+deiner
+deines
+denn
+derer
+dessen
+dich
+dir
+du
+dies
+diese
+diesem
+diesen
+dieser
+dieses
+doch
+dort
+durch
+ein
+eine
+einem
+einen
+einer
+eines
+einig
+einige
+einigem
+einigen
+einiger
+einiges
+einmal
+er
+ihn
+ihm
+es
+etwas
+euer
+eure
+eurem
+euren
+eurer
+eures
+für
+gegen
+gewesen
+hab
+habe
+haben
+hat
+hatte
+hatten
+hier
+hin
+hinter
+ich
+mich
+mir
+ihr
+ihre
+ihrem
+ihren
+ihrer
+ihres
+euch
+im
+in
+indem
+ins
+ist
+jede
+jedem
+jeden
+jeder
+jedes
+jene
+jenem
+jenen
+jener
+jenes
+jetzt
+kann
+kein
+keine
+keinem
+keinen
+keiner
+keines
+können
+könnte
+machen
+man
+manche
+manchem
+manchen
+mancher
+manches
+mein
+meine
+meinem
+meinen
+meiner
+meines
+mit
+muss
+musste
+nach
+nicht
+nichts
+noch
+nun
+nur
+ob
+oder
+ohne
+sehr
+sein
+seine
+seinem
+seinen
+seiner
+seines
+selbst
+sich
+sie
+ihnen
+sind
+so
+solche
+solchem
+solchen
+solcher
+solches
+soll
+sollte
+sondern
+sonst
+über
+um
+und
+uns
+unse
+unsem
+unsen
+unser
+unses
+unter
+viel
+vom
+von
+vor
+während
+war
+waren
+warst
+was
+weg
+weil
+weiter
+welche
+welchem
+welchen
+welcher
+welches
+wenn
+werde
+werden
+wie
+wieder
+will
+wir
+wird
+wirst
+wo
+wollen
+wollte
+würde
+würden
+zu
+zum
+zur
+zwar
+zwischen
+#ItalianWords
+ad
+al
+allo
+ai
+agli
+all
+agl
+alla
+alle
+con
+col
+coi
+da
+dal
+dallo
+dai
+dagli
+dall
+dagl
+dalla
+dalle
+di
+del
+dello
+dei
+degli
+dell
+degl
+della
+delle
+in
+nel
+nello
+nei
+negli
+nell
+negl
+nella
+nelle
+su
+sul
+sullo
+sui
+sugli
+sull
+sugl
+sulla
+sulle
+per
+tra
+contro
+io
+tu
+lui
+lei
+noi
+voi
+loro
+mio
+mia
+miei
+mie
+tuo
+tua
+tuoi
+tue
+suo
+sua
+suoi
+sue
+nostro
+nostra
+nostri
+nostre
+vostro
+vostra
+vostri
+vostre
+mi
+ti
+ci
+vi
+lo
+la
+li
+le
+gli
+ne
+il
+un
+uno
+una
+ma
+ed
+se
+perché
+anche
+come
+dov
+dove
+che
+chi
+cui
+non
+più
+quale
+quanto
+quanti
+quanta
+quante
+quello
+quelli
+quella
+quelle
+questo
+questi
+questa
+queste
+si
+tutto
+tutti
+a
+c
+e
+i
+l
+o
+ho
+hai
+ha
+abbiamo
+avete
+hanno
+abbia
+abbiate
+abbiano
+avrò
+avrai
+avrà
+avremo
+avrete
+avranno
+avrei
+avresti
+avrebbe
+avremmo
+avreste
+avrebbero
+avevo
+avevi
+aveva
+avevamo
+avevate
+avevano
+ebbi
+avesti
+ebbe
+avemmo
+aveste
+ebbero
+avessi
+avesse
+avessimo
+avessero
+avendo
+avuto
+avuta
+avuti
+avute
+sono
+sei
+è
+siamo
+siete
+sia
+siate
+siano
+sarò
+sarai
+sarà
+saremo
+sarete
+saranno
+sarei
+saresti
+sarebbe
+saremmo
+sareste
+sarebbero
+ero
+eri
+era
+eravamo
+eravate
+erano
+fui
+fosti
+fu
+fummo
+foste
+furono
+fossi
+fosse
+fossimo
+fossero
+essendo
+faccio
+fai
+facciamo
+fanno
+faccia
+facciate
+facciano
+farò
+farai
+farà
+faremo
+farete
+faranno
+farei
+faresti
+farebbe
+faremmo
+fareste
+farebbero
+facevo
+facevi
+faceva
+facevamo
+facevate
+facevano
+feci
+facesti
+fece
+facemmo
+faceste
+fecero
+facessi
+facesse
+facessimo
+facessero
+facendo
+sto
+stai
+sta
+stiamo
+stanno
+stia
+stiate
+stiano
+starò
+starai
+starà
+staremo
+starete
+staranno
+starei
+staresti
+starebbe
+staremmo
+stareste
+starebbero
+stavo
+stavi
+stava
+stavamo
+stavate
+stavano
+stetti
+stesti
+stette
+stemmo
+steste
+stettero
+stessi
+stesse
+stessimo
+stessero
+stando
+#PortugueseWords
+de
+a
+o
+que
+e
+do
+da
+em
+um
+para
+com
+não
+uma
+os
+no
+se
+na
+por
+mais
+as
+dos
+como
+mas
+ao
+ele
+das
+à
+seu
+sua
+ou
+quando
+muito
+nos
+já
+eu
+também
+só
+pelo
+pela
+até
+isso
+ela
+entre
+depois
+sem
+mesmo
+aos
+seus
+quem
+nas
+me
+esse
+eles
+você
+essa
+num
+nem
+suas
+meu
+às
+minha
+numa
+pelos
+elas
+qual
+nós
+lhe
+deles
+essas
+esses
+pelas
+este
+dele
+tu
+te
+vocês
+vos
+lhes
+meus
+minhas
+teu
+tua
+teus
+tuas
+nosso
+nossa
+nossos
+nossas
+dela
+delas
+esta
+estes
+estas
+aquele
+aquela
+aqueles
+aquelas
+isto
+aquilo
+estou
+está
+estamos
+estão
+estive
+esteve
+estivemos
+estiveram
+estava
+estávamos
+estavam
+estivera
+estivéramos
+esteja
+estejamos
+estejam
+estivesse
+estivéssemos
+estivessem
+estiver
+estivermos
+estiverem
+hei
+há
+havemos
+hão
+houve
+houvemos
+houveram
+houvera
+houvéramos
+haja
+hajamos
+hajam
+houvesse
+houvéssemos
+houvessem
+houver
+houvermos
+houverem
+houverei
+houverá
+houveremos
+houverão
+houveria
+houveríamos
+houveriam
+sou
+somos
+são
+era
+éramos
+eram
+fui
+foi
+fomos
+foram
+fora
+fôramos
+seja
+sejamos
+sejam
+fosse
+fôssemos
+fossem
+for
+formos
+forem
+serei
+será
+seremos
+serão
+seria
+seríamos
+seriam
+tenho
+tem
+temos
+tém
+tinha
+tínhamos
+tinham
+tive
+teve
+tivemos
+tiveram
+tivera
+tivéramos
+tenha
+tenhamos
+tenham
+tivesse
+tivéssemos
+tivessem
+tiver
+tivermos
+tiverem
+terei
+terá
+teremos
+terão
+teria
+teríamos
+teriam
+#SpanishWords
+de
+la
+que
+el
+en
+y
+a
+los
+del
+se
+las
+por
+un
+para
+con
+no
+una
+su
+al
+lo
+como
+más
+pero
+sus
+le
+ya
+o
+este
+sí
+porque
+esta
+entre
+cuando
+muy
+sin
+sobre
+también
+me
+hasta
+hay
+donde
+quien
+desde
+todo
+nos
+durante
+todos
+uno
+les
+ni
+contra
+otros
+ese
+eso
+ante
+ellos
+e
+esto
+mí
+antes
+algunos
+qué
+unos
+yo
+otro
+otras
+otra
+él
+tanto
+esa
+estos
+mucho
+quienes
+nada
+muchos
+cual
+poco
+ella
+estar
+estas
+algunas
+algo
+nosotros
+mi
+mis
+tú
+te
+ti
+tu
+tus
+ellas
+nosotras
+vosostros
+vosostras
+os
+mío
+mía
+míos
+mías
+tuyo
+tuya
+tuyos
+tuyas
+suyo
+suya
+suyos
+suyas
+nuestro
+nuestra
+nuestros
+nuestras
+vuestro
+vuestra
+vuestros
+vuestras
+esos
+esas
+estoy
+estás
+está
+estamos
+estáis
+están
+esté
+estés
+estemos
+estéis
+estén
+estaré
+estarás
+estará
+estaremos
+estaréis
+estarán
+estaría
+estarías
+estaríamos
+estaríais
+estarían
+estaba
+estabas
+estábamos
+estabais
+estaban
+estuve
+estuviste
+estuvo
+estuvimos
+estuvisteis
+estuvieron
+estuviera
+estuvieras
+estuviéramos
+estuvierais
+estuvieran
+estuviese
+estuvieses
+estuviésemos
+estuvieseis
+estuviesen
+estando
+estado
+estada
+estados
+estadas
+estad
+he
+has
+ha
+hemos
+habéis
+han
+haya
+hayas
+hayamos
+hayáis
+hayan
+habré
+habrás
+habrá
+habremos
+habréis
+habrán
+habría
+habrías
+habríamos
+habríais
+habrían
+había
+habías
+habíamos
+habíais
+habían
+hube
+hubiste
+hubo
+hubimos
+hubisteis
+hubieron
+hubiera
+hubieras
+hubiéramos
+hubierais
+hubieran
+hubiese
+hubieses
+hubiésemos
+hubieseis
+hubiesen
+habiendo
+habido
+habida
+habidos
+habidas
+soy
+eres
+es
+somos
+sois
+son
+sea
+seas
+seamos
+seáis
+sean
+seré
+serás
+será
+seremos
+seréis
+serán
+sería
+serías
+seríamos
+seríais
+serían
+era
+eras
+éramos
+erais
+eran
+fui
+fuiste
+fue
+fuimos
+fuisteis
+fueron
+fuera
+fueras
+fuéramos
+fuerais
+fueran
+fuese
+fueses
+fuésemos
+fueseis
+fuesen
+sintiendo
+sentido
+sentida
+sentidos
+sentidas
+siente
+sentid
+tengo
+tienes
+tiene
+tenemos
+tenéis
+tienen
+tenga
+tengas
+tengamos
+tengáis
+tengan
+tendré
+tendrás
+tendrá
+tendremos
+tendréis
+tendrán
+tendría
+tendrías
+tendríamos
+tendríais
+tendrían
+tenía
+tenías
+teníamos
+teníais
+tenían
+tuve
+tuviste
+tuvo
+tuvimos
+tuvisteis
+tuvieron
+tuviera
+tuvieras
+tuviéramos
+tuvierais
+tuvieran
+tuviese
+tuvieses
+tuviésemos
+tuvieseis
+tuviesen
+teniendo
+tenido
+tenida
+tenidos
+tenidas
+tened
+#BasicEnglish
+I
+a
+able
+about
+account
+acid
+across
+act
+addition
+adjustment
+advertisement
+after
+again
+against
+agreement
+air
+all
+almost
+among
+amount
+amusement
+and
+angle
+angry
+animal
+answer
+ant
+any
+apparatus
+apple
+approval
+arch
+argument
+arm
+army
+art
+as
+at
+attack
+attempt
+attention
+attraction
+authority
+automatic
+awake
+baby
+back
+bad
+bag
+balance
+ball
+band
+base
+basin
+basket
+bath
+be
+beautiful
+because
+bed
+bee
+before
+behaviour
+belief
+bell
+bent
+berry
+between
+bird
+birth
+bit
+bite
+bitter
+black
+blade
+blood
+blow
+blue
+board
+boat
+body
+boiling
+bone
+book
+boot
+bottle
+box
+boy
+brain
+brake
+branch
+brass
+bread
+breath
+brick
+bridge
+bright
+broken
+brother
+brown
+brush
+bucket
+building
+bulb
+burn
+burst
+business
+but
+butter
+button
+by
+cake
+camera
+canvas
+card
+care
+carriage
+cart
+cat
+cause
+certain
+chain
+chalk
+chance
+change
+cheap
+cheese
+chemical
+chest
+chief
+chin
+church
+circle
+clean
+clear
+clock
+cloth
+cloud
+coal
+coat
+cold
+collar
+colour
+comb
+come
+comfort
+committee
+common
+company
+comparison
+competition
+complete
+complex
+condition
+connection
+conscious
+control
+cook
+copper
+copy
+cord
+cork
+cotton
+cough
+country
+cover
+cow
+crack
+credit
+crime
+cruel
+crush
+cry
+cup
+current
+curtain
+curve
+cushion
+cut
+damage
+danger
+dark
+daughter
+day
+dead
+dear
+death
+debt
+decision
+deep
+degree
+delicate
+dependent
+design
+desire
+destruction
+detail
+development
+different
+digestion
+direction
+dirty
+discovery
+discussion
+disease
+disgust
+distance
+distribution
+division
+do
+dog
+door
+doubt
+down
+drain
+drawer
+dress
+drink
+driving
+drop
+dry
+dust
+ear
+early
+earth
+east
+edge
+education
+effect
+egg
+elastic
+electric
+end
+engine
+enough
+equal
+error
+even
+event
+ever
+every
+example
+exchange
+existence
+expansion
+experience
+expert
+eye
+face
+fact
+fall
+false
+family
+far
+farm
+fat
+father
+fear
+feather
+feeble
+feeling
+female
+fertile
+fiction
+field
+fight
+finger
+fire
+first
+fish
+fixed
+flag
+flame
+flat
+flight
+floor
+flower
+fly
+fold
+food
+foolish
+foot
+for
+force
+fork
+form
+forward
+fowl
+frame
+free
+frequent
+friend
+from
+front
+fruit
+full
+future
+garden
+general
+get
+girl
+give
+glass
+glove
+go
+goat
+gold
+good
+government
+grain
+grass
+great
+green
+grey
+grip
+group
+growth
+guide
+gun
+hair
+hammer
+hand
+hanging
+happy
+harbour
+hard
+harmony
+hat
+hate
+have
+he
+head
+healthy
+hearing
+heart
+heat
+help
+here
+high
+history
+hole
+hollow
+hook
+hope
+horn
+horse
+hospital
+hour
+house
+how
+humour
+ice
+idea
+if
+ill
+important
+impulse
+in
+increase
+industry
+ink
+insect
+instrument
+insurance
+interest
+invention
+iron
+island
+jelly
+jewel
+join
+journey
+judge
+jump
+keep
+kettle
+key
+kick
+kind
+kiss
+knee
+knife
+knot
+knowledge
+land
+language
+last
+late
+laugh
+law
+lead
+leaf
+learning
+leather
+left
+leg
+let
+letter
+level
+library
+lift
+light
+like
+limit
+line
+linen
+lip
+liquid
+list
+little
+living
+lock
+long
+look
+loose
+loss
+loud
+love
+low
+machine
+make
+male
+man
+manager
+map
+mark
+market
+married
+mass
+match
+material
+may
+meal
+measure
+meat
+medical
+meeting
+memory
+metal
+military
+milk
+mind
+mine
+minute
+mist
+mixed
+money
+monkey
+month
+moon
+morning
+mother
+motion
+mountain
+mouth
+move
+much
+muscle
+music
+nail
+name
+narrow
+nation
+natural
+near
+necessary
+neck
+need
+needle
+nerve
+net
+new
+news
+night
+no
+noise
+normal
+north
+nose
+not
+note
+now
+number
+nut
+observation
+of
+off
+offer
+office
+oil
+on
+only
+open
+operation
+opinion
+opposite
+or
+orange
+order
+organization
+ornament
+other
+out
+oven
+over
+owner
+page
+pain
+paint
+paper
+parallel
+parcel
+part
+past
+paste
+payment
+peace
+pen
+pencil
+person
+physical
+picture
+pig
+pin
+pipe
+place
+plane
+plant
+plate
+play
+please
+pleasure
+plough
+pocket
+point
+poison
+political
+poor
+porter
+position
+possible
+pot
+potato
+powder
+power
+present
+price
+print
+prison
+private
+probable
+process
+produce
+profit
+property
+prose
+protest
+public
+pull
+pump
+punishment
+purpose
+push
+put
+quality
+question
+quick
+quiet
+quite
+rail
+rain
+range
+rat
+rate
+ray
+reaction
+reading
+ready
+reason
+receipt
+record
+red
+regret
+regular
+relation
+religion
+representative
+request
+respect
+responsible
+rest
+reward
+rhythm
+rice
+right
+ring
+river
+road
+rod
+roll
+roof
+room
+root
+rough
+round
+rub
+rule
+run
+sad
+safe
+sail
+salt
+same
+sand
+say
+scale
+school
+science
+scissors
+screw
+sea
+seat
+second
+secret
+secretary
+see
+seed
+seem
+selection
+self
+send
+sense
+separate
+serious
+servant
+sex
+shade
+shake
+shame
+sharp
+sheep
+shelf
+ship
+shirt
+shock
+shoe
+short
+shut
+side
+sign
+silk
+silver
+simple
+sister
+size
+skin
+skirt
+sky
+sleep
+slip
+slope
+slow
+small
+smash
+smell
+smile
+smoke
+smooth
+snake
+sneeze
+snow
+so
+soap
+society
+sock
+soft
+solid
+some
+son
+song
+sort
+sound
+soup
+south
+space
+spade
+special
+sponge
+spoon
+spring
+square
+stage
+stamp
+star
+start
+statement
+station
+steam
+steel
+stem
+step
+stick
+sticky
+stiff
+still
+stitch
+stocking
+stomach
+stone
+stop
+store
+story
+straight
+strange
+street
+stretch
+strong
+structure
+substance
+such
+sudden
+sugar
+suggestion
+summer
+sun
+support
+surprise
+sweet
+swim
+system
+table
+tail
+take
+talk
+tall
+taste
+tax
+teaching
+tendency
+test
+than
+that
+the
+then
+theory
+there
+thick
+thin
+thing
+this
+though
+thought
+thread
+throat
+through
+thumb
+thunder
+ticket
+tight
+till
+time
+tin
+tired
+to
+toe
+together
+tomorrow
+tongue
+tooth
+top
+touch
+town
+trade
+train
+transport
+tray
+tree
+trick
+trouble
+trousers
+true
+turn
+twist
+umbrella
+under
+unit
+up
+use
+value
+verse
+very
+vessel
+view
+violent
+voice
+waiting
+walk
+wall
+war
+warm
+wash
+waste
+watch
+water
+wave
+wax
+way
+weather
+week
+weight
+well
+west
+wet
+wheel
+when
+where
+while
+whip
+whistle
+white
+who
+why
+wide
+will
+wind
+window
+wine
+wing
+winter
+wire
+wise
+with
+woman
+wood
+wool
+word
+work
+worm
+wound
+writing
+wrong
+year
+yellow
+yes
+yesterday
+you
+young
+#MoreEnglish
+mid
+six
+manual
+thompson
+sum
+cone
+fur
+#EnglishWeakNames
+wn	abbey
+wn	aboriginal
+wn	aborigines
+wn	acapulco
+wn	afghan
+wn	africa
+wn	african
+wn	afro
+wn	air
+wn	ala
+wn	alaska
+wn	alaskan
+wn	albany
+wn	alberta
+wn	albino
+wn	algerian
+wn	algonquian
+wn	alpine
+wn	alto
+wn	america
+wn	american
+wn	an
+wn	ancient
+wn	and
+wn	angel
+wn	anglo
+wn	anterior
+wn	antilles
+wn	antonio
+wn	ape
+wn	arab
+wn	arabian
+wn	arctic
+wn	argentina
+wn	argentine
+wn	aria
+wn	arm
+wn	as
+wn	asian
+wn	asiatic
+wn	august
+wn	augustinian
+wn	australian
+wn	austrian
+wn	babylonian
+wn	bag
+wn	bahamas
+wn	bahamian
+wn	balkan
+wn	baltic
+wn	ban
+wn	band
+wn	banded
+wn	bantu
+wn	based
+wn	basic
+wn	basket
+wn	bay
+wn	bazaar
+wn	be
+wn	beaufort
+wn	bedouin
+wn	ben
+wn	benin
+wn	bering
+wn	bet
+wn	bethel
+wn	bhutan
+wn	bible
+wn	big
+wn	bit
+wn	black
+wn	blanc
+wn	blanche
+wn	blue
+wn	bob
+wn	bolivian
+wn	bombay
+wn	bone
+wn	border
+wn	borneo
+wn	boy
+wn	brass
+wn	brazilian
+wn	britain
+wn	british
+wn	broken
+wn	bulgaria
+wn	bush
+wn	bushmen
+wn	but
+wn	by
+wn	cajun
+wn	calcutta
+wn	cam
+wn	cameroon
+wn	canada
+wn	canadian
+wn	canary
+wn	cant
+wn	cape
+wn	car
+wn	caribbean
+wn	caribou
+wn	carolina
+wn	carolinian
+wn	carrion
+wn	casablanca
+wn	cayman
+wn	centre
+wn	chad
+wn	chat
+wn	chihuahua
+wn	chilean
+wn	china
+wn	christian
+wn	church
+wn	circle
+wn	city
+wn	classical
+wn	clay
+wn	clear
+wn	co
+wn	coastal
+wn	colombia
+wn	colombian
+wn	colony
+wn	colorado
+wn	colored
+wn	columbia
+wn	commercial
+wn	common
+wn	community
+wn	conception
+wn	congo
+wn	contact
+wn	cook
+wn	copper
+wn	core
+wn	country
+wn	cove
+wn	craven
+wn	crimean
+wn	cuba
+wn	culture
+wn	cypriot
+wn	dan
+wn	daniel
+wn	danube
+wn	delta
+wn	deutsche
+wn	dialect
+wn	divers
+wn	djibouti
+wn	do
+wn	dominican
+wn	don
+wn	dos
+wn	downhill
+wn	downstream
+wn	duke
+wn	easter
+wn	egypt
+wn	egyptian
+wn	english
+wn	equatorial
+wn	era
+wn	ethiopian
+wn	euphrates
+wn	european
+wn	exact
+wn	fall
+wn	fan
+wn	far
+wn	federation
+wn	fiji
+wn	filipino
+wn	finland
+wn	flanders
+wn	flowery
+wn	fly
+wn	folk
+wn	foothill
+wn	forest
+wn	formal
+wn	fort
+wn	franca
+wn	francis
+wn	francisco
+wn	franco
+wn	fur
+wn	gambian
+wn	gem
+wn	general
+wn	george
+wn	ghana
+wn	go
+wn	golden
+wn	gone
+wn	governor
+wn	grand
+wn	grande
+wn	grass
+wn	grassland
+wn	great
+wn	greater
+wn	green
+wn	grenada
+wn	griffin
+wn	guatemalan
+wn	guinea
+wn	guinean
+wn	gun
+wn	gypsies
+wn	gypsy
+wn	hair
+wn	haitian
+wn	hanoi
+wn	harbour
+wn	hat
+wn	hawaii
+wn	hay
+wn	headed
+wn	headwaters
+wn	hellenic
+wn	hid
+wn	high
+wn	highland
+wn	hill
+wn	hills
+wn	hindustani
+wn	hog
+wn	honduran
+wn	honduras
+wn	hope
+wn	horn
+wn	horned
+wn	howe
+wn	hun
+wn	hut
+wn	iberian
+wn	illinois
+wn	indian
+wn	indians
+wn	indigenous
+wn	indonesia
+wn	inland
+wn	inlet
+wn	inner
+wn	insular
+wn	interior
+wn	international
+wn	iowa
+wn	iranian
+wn	iraqi
+wn	iron
+wn	ironworker
+wn	islam
+wn	island
+wn	islander
+wn	islands
+wn	israeli
+wn	isthmus
+wn	it
+wn	jakarta
+wn	jamaican
+wn	james
+wn	jargon
+wn	java
+wn	jewish
+wn	jordanian
+wn	juan
+wn	jungle
+wn	kashmir
+wn	kenya
+wn	khartoum
+wn	kilo
+wn	king
+wn	kings
+wn	labrador
+wn	lagoon
+wn	laguna
+wn	lake
+wn	lakes
+wn	land
+wn	laos
+wn	large
+wn	lawrence
+wn	leaf
+wn	lebanese
+wn	lebanon
+wn	leeward
+wn	lens
+wn	leon
+wn	leone
+wn	lest
+wn	liar
+wn	liberia
+wn	liberian
+wn	light
+wn	likes
+wn	lima
+wn	linda
+wn	lingua
+wn	literary
+wn	little
+wn	local
+wn	log
+wn	logo
+wn	long
+wn	lord
+wn	louisiana
+wn	low
+wn	lowland
+wn	lung
+wn	madagascar
+wn	main
+wn	mainland
+wn	mainstream
+wn	malawi
+wn	malaya
+wn	malaysia
+wn	malaysian
+wn	male
+wn	mali
+wn	man
+wn	manus
+wn	maria
+wn	marie
+wn	maritime
+wn	mark
+wn	marseille
+wn	marsh
+wn	martin
+wn	massif
+wn	may
+wn	me
+wn	meadow
+wn	media
+wn	melanesian
+wn	men
+wn	mennonite
+wn	mesa
+wn	mesopotamian
+wn	met
+wn	mexican
+wn	mexico
+wn	michigan
+wn	middle
+wn	midwestern
+wn	mini
+wn	minnesota
+wn	mission
+wn	mixed
+wn	modern
+wn	monastic
+wn	mongol
+wn	mongolia
+wn	monte
+wn	moose
+wn	moroccan
+wn	morocco
+wn	moses
+wn	mount
+wn	mountain
+wn	multi
+wn	munster
+wn	muslim
+wn	mustang
+wn	natural
+wn	neapolitan
+wn	near
+wn	nearly
+wn	negro
+wn	nepal
+wn	nepalese
+wn	netherlands
+wn	newcastle
+wn	newfoundland
+wn	nicaragua
+wn	nicaraguan
+wn	nigeria
+wn	nigerian
+wn	nile
+wn	no
+wn	noir
+wn	nomadic
+wn	non
+wn	nonstandard
+wn	nor
+wn	norfolk
+wn	normal
+wn	nuclear
+wn	oasis
+wn	occidental
+wn	of
+wn	official
+wn	old
+wn	once
+wn	one
+wn	ontario
+wn	orange
+wn	oriental
+wn	outer
+wn	pacific
+wn	pakistan
+wn	pakistani
+wn	pale
+wn	palestinian
+wn	pan
+wn	panama
+wn	panamanian
+wn	papuan
+wn	paraguay
+wn	paraguayan
+wn	park
+wn	parole
+wn	pass
+wn	patois
+wn	peak
+wn	pedro
+wn	peer
+wn	pen
+wn	penang
+wn	peninsula
+wn	peninsular
+wn	pennsylvania
+wn	people
+wn	peripheral
+wn	persian
+wn	peruvian
+wn	petit
+wn	philippine
+wn	piazza
+wn	pisa
+wn	plain
+wn	plains
+wn	plan
+wn	plateau
+wn	plenty
+wn	plus
+wn	point
+wn	polar
+wn	police
+wn	pool
+wn	port
+wn	prairie
+wn	pray
+wn	presidio
+wn	prince
+wn	proper
+wn	pueblo
+wn	pueblos
+wn	puerto
+wn	pure
+wn	pygmy
+wn	pyramid
+wn	quebec
+wn	rainy
+wn	ranchos
+wn	raphael
+wn	rapids
+wn	ray
+wn	red
+wn	reef
+wn	reunion
+wn	rocky
+wn	romance
+wn	romano
+wn	rouge
+wn	run
+wn	rural
+wn	russell
+wn	russia
+wn	saharan
+wn	salt
+wn	salvador
+wn	samaritan
+wn	san
+wn	sandwich
+wn	santa
+wn	santiago
+wn	sari
+wn	saudi
+wn	school
+wn	scottish
+wn	seaside
+wn	sedentary
+wn	shall
+wn	shanghai
+wn	shark
+wn	shore
+wn	siberian
+wn	sierra
+wn	sierras
+wn	sifter
+wn	signed
+wn	signing
+wn	silver
+wn	singapore
+wn	sinicized
+wn	slavic
+wn	slope
+wn	slovak
+wn	small
+wn	smith
+wn	sombrero
+wn	son
+wn	sonar
+wn	song
+wn	soudan
+wn	sound
+wn	spoken
+wn	springs
+wn	standard
+wn	state
+wn	steppe
+wn	strait
+wn	straits
+wn	striped
+wn	sub
+wn	sudan
+wn	sudanese
+wn	swampy
+wn	swiss
+wn	syrian
+wn	tabasco
+wn	tactic
+wn	taiwan
+wn	talk
+wn	talmudic
+wn	tan
+wn	tanzania
+wn	tanzanian
+wn	tar
+wn	tent
+wn	texas
+wn	thailand
+wn	the
+wn	then
+wn	thin
+wn	thread
+wn	thrice
+wn	tinners
+wn	to
+wn	togo
+wn	tom
+wn	ton
+wn	town
+wn	trade
+wn	transitional
+wn	traveler
+wn	traveller
+wn	travellers
+wn	tribal
+wn	tribe
+wn	trinidad
+wn	true
+wn	tundra
+wn	tunisian
+wn	turk
+wn	turks
+wn	ugandan
+wn	ukraine
+wn	un
+wn	union
+wn	upland
+wn	upstream
+wn	urban
+wn	uruguayan
+wn	us
+wn	use
+wn	van
+wn	vancouver
+wn	variegated
+wn	venetian
+wn	venezuelan
+wn	verde
+wn	vernacular
+wn	via
+wn	village
+wn	virgin
+wn	virginia
+wn	vista
+wn	vital
+wn	volga
+wn	waistband
+wn	wake
+wn	wales
+wn	war
+wn	warm
+wn	water
+wn	were
+wn	white
+wn	wild
+wn	wisconsin
+wn	woods
+wn	yale
+wn	yam
+wn	ye
+wn	yellow
+wn	yemenite
+wn	yen
+wn	yes
+wn	york
+wn	younger
+wn	yugoslavian
+wn	yukon
+wn	zambian
+wn	zealand
+wn	zero
+wn	zimbabwe
+wn	zoroastrian
+wn	langage
+wn	langue
+wn	taal
+wn	tok
+wn	seoul
+wn	bahasa
+wn	montana
+#MoreCommonWords
+age
+along
+are
+banana
+bar
+bare
+bi
+buy
+ca
+canoe
+check
+cross
+fa
+fi
+four
+her
+hoc
+i
+ii
+iii
+live
+mere
+more
+nasal
+none
+pa
+pay
+pi
+re
+set
+she
+sing
+sole
+southern
+tape
+ten
+tie
+usage
+vice
+we
+were
+#AllTwoLetters
+wn	aa
+wn	ae
+wn	af
+wn	ai
+wn	al
+wn	an
+wn	ao
+wn	ap
+wn	as
+wn	au
+wn	ay
+wn	ba
+wn	be
+wn	bi
+wn	bo
+wn	bu
+wn	by
+wn	ca
+wn	ci
+wn	co
+wn	cu
+wn	da
+wn	de
+wn	di
+wn	do
+wn	du
+wn	ea
+wn	ee
+wn	eh
+wn	ek
+wn	el
+wn	ep
+wn	er
+wn	es
+wn	et
+wn	eu
+wn	fa
+wn	fi
+wn	fo
+wn	fu
+wn	ge
+wn	go
+wn	gu
+wn	gy
+wn	ha
+wn	hi
+wn	hm
+wn	ho
+wn	ia
+wn	ii
+wn	il
+wn	in
+wn	io
+wn	it
+wn	iu
+wn	ja
+wn	je
+wn	ji
+wn	jo
+wn	ju
+wn	ka
+wn	ke
+wn	ki
+wn	ko
+wn	ku
+wn	la
+wn	le
+wn	li
+wn	lo
+wn	lu
+wn	ly
+wn	ma
+wn	me
+wn	mi
+wn	mo
+wn	mu
+wn	na
+wn	ne
+wn	ng
+wn	ni
+wn	no
+wn	nu
+wn	oa
+wn	ob
+wn	od
+wn	oe
+wn	of
+wn	oh
+wn	oi
+wn	ok
+wn	om
+wn	oo
+wn	ot
+wn	ou
+wn	oy
+wn	pa
+wn	pÃ
+wn	pe
+wn	po
+wn	pu
+wn	ra
+wn	re
+wn	ri
+wn	ro
+wn	ru
+wn	sa
+wn	si
+wn	so
+wn	st
+wn	su
+wn	ta
+wn	tÃ
+wn	te
+wn	ti
+wn	to
+wn	tu
+wn	ua
+wn	um
+wn	un
+wn	up
+wn	us
+wn	ut
+wn	uy
+wn	va
+wn	ve
+wn	vo
+wn	wa
+wn	we
+wn	wo
+wn	wu
+wn	xa
+wn	xi
+wn	xo
+wn	ya
+wn	ye
+wn	yi
+wn	yo
+wn	yu
+wn	zu
+#RemoveRedundantEntryForMacrolanguage
+swh	sn	Swahili
+zlm	sn	Malay
+knn	sn	Konkani
